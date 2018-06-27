@@ -1,0 +1,6 @@
+---
+applications:
+- name: angular_test
+  path: .
+  buildpack: nodejs_buildpack
+  memory: 1024M
